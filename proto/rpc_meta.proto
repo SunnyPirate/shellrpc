@@ -1,0 +1,7 @@
+type:1
+sequence_no:2
+source_ip:3
+method:4
+callback_port:5
+callback_method:6
+timeout:7
